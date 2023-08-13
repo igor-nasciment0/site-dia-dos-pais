@@ -32,7 +32,7 @@ export default function Home() {
                 <div className="container-fotos">
                     <div>
                         <img src="/assets/images/secao-fotos/casamento.jpg" alt="" />
-                        <h4>Em 2001, o Pai e a Mãe se casaram</h4>
+                        <h4>Em 2002, o Pai e a Mãe se casaram</h4>
                     </div>
 
                     <div>
