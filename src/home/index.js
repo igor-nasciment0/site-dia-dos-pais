@@ -28,7 +28,38 @@ export default function Home() {
                 <iframe height="315" src="https://www.youtube.com/embed/Hzclx0g3_BA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="true" />
             </section>
 
-            
+            <section className="sec-fotos">
+                <div className="container-fotos">
+                    <div>
+                        <img src="/assets/images/secao-fotos/casamento.jpg" alt="" />
+                        <h4>Em 2001, o Pai e a Mãe se casaram</h4>
+                    </div>
+
+                    <div>
+                        <img src="/assets/images/secao-fotos/mari.jpg" alt="" />
+                        <h4>A Mari sempre consegue tirar umas fotos bem bonitas</h4>
+                    </div>
+
+                    <div>
+                        <img src="/assets/images/secao-fotos/mata_redonda.jpg" alt="" />
+                        <h4>Já a mãe, nem sempre.</h4>
+                    </div>
+
+                    <div>
+                        <img src="/assets/images/secao-fotos/irmaos.jpg" alt="" />
+                        <h4>No ano passado, os irmãos fizeram uma das raras reuniões.</h4>
+                    </div>
+
+                    <div>
+                        <img src="/assets/images/secao-fotos/triunfo.jpg" alt="" />
+                        <h4>O Pai em Triunfo.<br/>Um dia, ele ainda vai morar por lá de novo.</h4>
+                    </div>
+                </div>
+            </section>
+
+            <footer>
+                <h1>Pai... <br/> Obrigado por ser o Pai!</h1>
+            </footer>
         </div>
     )
 }
