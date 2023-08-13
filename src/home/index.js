@@ -51,6 +51,11 @@ export default function Home() {
                     </div>
 
                     <div>
+                        <img src="/assets/images/secao-fotos/familia.jpg" alt="" />
+                        <h4>O Pai e a gente, numa foto que deve ter uns 16 anos</h4>
+                    </div>
+
+                    <div>
                         <img src="/assets/images/secao-fotos/triunfo.jpg" alt="" />
                         <h4>O Pai em Triunfo.<br/>Um dia, ele ainda vai morar por lá de novo.</h4>
                     </div>
